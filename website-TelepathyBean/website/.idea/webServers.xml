@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a09937e1-2296-48df-9e8a-706877e0e958" name="xampp" url="http://localhost/TelepathyBean">
+        <fileTransfer port="0" mountedRoot="C:\xampp" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

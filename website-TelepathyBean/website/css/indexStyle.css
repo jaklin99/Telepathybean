@@ -1,0 +1,97 @@
+html {
+  scroll-behavior: smooth;
+}
+.main {
+  background-image: url(https://www.starwebssolution.com/wp-content/uploads/2020/02/web-design-company-in-Coimbatore.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.main h1 {
+  padding: 20vh 10vw;
+  font: normal 80px "Cookie", cursive;
+  color: #e0ac1c;
+}
+
+.main .button {
+  background-color: #2c292f;
+  border: none;
+  border-radius: 50vh;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  position: absolute;
+  left: 13vw;
+  cursor: pointer;
+}
+.main .button:hover {
+  background-color: #e0ac1c;
+}
+@media only screen and (max-width: 900px) /*responsive for phones*/ {
+  html {
+    scroll-behavior: smooth;
+  }
+  .main {
+    background-image: url(https://www.starwebssolution.com/wp-content/uploads/2020/02/web-design-company-in-Coimbatore.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+  }
+  .main h1 {
+    padding: 20vh 10vw;
+    font: normal 80px "Cookie", cursive;
+    color: #e0ac1c;
+  }
+
+  .main .button {
+    background-color: #2c292f;
+    border: none;
+    border-radius: 50vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 13vw;
+    cursor: pointer;
+  }
+  .main .button:hover {
+    background-color: #e0ac1c;
+  }
+}
+@media only screen and (max-width: 1300px) /*responsive for tablets*/ {
+  html {
+    scroll-behavior: smooth;
+  }
+  .main {
+    background-image: url(https://www.starwebssolution.com/wp-content/uploads/2020/02/web-design-company-in-Coimbatore.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+  }
+  .main h1 {
+    padding: 20vh 10vw;
+    font: normal 80px "Cookie", cursive;
+    color: #e0ac1c;
+  }
+
+  .main .button {
+    background-color: #2c292f;
+    border: none;
+    border-radius: 50vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+
+    left: 13vw;
+    cursor: pointer;
+  }
+  .main .button:hover {
+    background-color: #e0ac1c;
+  }
+}

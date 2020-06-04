@@ -1,0 +1,33 @@
+body{
+  background-color: #2c292f;
+  color: #e0ac1c;
+}
+
+#imageUpload
+{
+  background-color: #e0ac1c;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  text-align: center;
+  margin: 18% auto auto;
+  background-color: #2c292f;
+}
+
+.image{
+  width: 100%;
+}
+
+input[type = submit]{
+  background: #e0ac1c;
+  border-color: black;
+  color:black;
+  margin-bottom: 1%;
+}
+input[type = submit]:hover
+{
+  background: #2c292f;
+  color: #e0ac1c;
+}

@@ -1,0 +1,36 @@
+body {
+  background-color: #e0ac1c;
+}
+.btn {
+  background: linear-gradient(141deg, #e0ac1c 0%, #f1c751 31%, #f3d990 51%);
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+#myTable {
+  width: 70%;
+  background-color: #2c292f;
+  color: #e0ac1c;
+  margin-top: 2%;
+  margin-left: 15%;
+}
+@media only screen and (max-width: 700px) {
+  /* For tablets: */
+  #myTable {
+    width: 20%;
+    background-color: #2c292f;
+    color: #e0ac1c;
+    margin-top: 2%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  /* For mobile phones: */
+  #myTable {
+    width: 100%;
+    background-color: #2c292f;
+    color: #e0ac1c;
+    margin-top: 2%;
+  }
+}

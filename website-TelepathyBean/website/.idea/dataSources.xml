@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - dbi427502@studmysql01.fhict.local" uuid="ed586aa5-ca42-4f28-aafd-fe4b6370a800">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://studmysql01.fhict.local:3306/dbi427502</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dbi427502" uuid="80c3038d-cda7-4de1-88d8-d020ae6463c1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://studmysql01.fhict.local:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>
